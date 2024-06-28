@@ -1,5 +1,5 @@
 # To--do-list
- <img src="i1.png" height="50" width="50">
+ <img src="i1.png">
 - A To-do list app made with JQuery.
 
 ## Features
